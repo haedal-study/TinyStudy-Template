@@ -2,13 +2,9 @@
 > 이 스터디에 대해서 설명합니다. (e.g. 모집 대상, 예상 효과 등)
 
 # 참여 인원
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/17216686?v=4" width="100px;" alt="choiseonmun"/><br /><sub><a href="https://github.com/choiseonmun"><b>choiseonmun</b></a></sub><br /></td>
-    </tr>
-  </tbody>
-</table>
+| 참여자 | 참여 동기 | 각오 |
+| --- | --- | --- |
+| 최선문 | - | - |
 
 # 커리큘럼
 > 매일 정해진 분량을 설명합니다.
